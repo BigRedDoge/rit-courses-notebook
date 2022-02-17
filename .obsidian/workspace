@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a45f51f1d45a0ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "119827841877e64d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51b3471c210a05c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cddaaea2192bb242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2ee6ca054df2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f656a90c604c442",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06c736e71cdb7966",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1c210382100fcaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af0a19a70b7ee53c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "119827841877e64d",
+  "lastOpenFiles": [
+    "csci251-copads/testing.one.md",
+    "csci251-copads/root.md",
+    "rit-courses-notebook/root.md",
+    "csci251-copads/README.md",
+    "csci251-copads/vault/dendron.md",
+    "csci251-copads/vault/root.md",
+    "vault/dendron.md",
+    "vault/root.md",
+    "csci251-copads/docs/notes/ae4134ba-a484-4a95-9bca-8ad082639fee.md",
+    "csci251-copads/docs/404.md"
+  ]
+}
